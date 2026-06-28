@@ -1,4 +1,5 @@
 # Companion Robot — Project Status
+Last updated: 2026-06-28
 
 ## Why / What
 
